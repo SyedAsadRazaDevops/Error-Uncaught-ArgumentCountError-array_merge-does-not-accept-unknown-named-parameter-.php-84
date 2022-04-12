@@ -88,7 +88,8 @@ To test your installation, run:
 ```
 composer
 ```
->Output
+# Output
+ ```
    ______
   / ____/___  ____ ___  ____  ____  ________  _____
  / /   / __ \/ __ `__ \/ __ \/ __ \/ ___/ _ \/ ___/
@@ -96,7 +97,7 @@ composer
 \____/\____/_/ /_/ /_/ .___/\____/____/\___/_/
                     /_/
 Composer version 2.3.4 
-
+```
 >This verifies that Composer was successfully installed on your system and is available system-wide.
 
 
