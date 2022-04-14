@@ -99,10 +99,17 @@ composer
 Composer version 2.3.4 
 ```
 >This verifies that Composer was successfully installed on your system and is available system-wide.
-
+>
+**uninstall php version 7.4/8.1 ubuntu 20.04** Code Example
+```
+sudo apt-get purge php7.*
+sudo apt-get autoclean
+sudo apt-get autoremove
+```
 
 [LINK] https://www.digitalocean.com/community/tutorials/how-to-install-composer-on-ubuntu-20-04-quickstart
 
+[LINK] https://stackoverflow.com/questions/39337127/i-cannot-install-php-composer-in-ubuntu-16-04
 
 
 
